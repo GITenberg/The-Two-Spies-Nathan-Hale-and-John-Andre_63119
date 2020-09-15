@@ -1,0 +1,38 @@
+_repo: The-Two-Spies-Nathan-Hale-and-John-Andre_63119
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Seward, Anna
+    birthdate: 1742
+    deathdate: 1809
+    gutenberg_agent_id: '32829'
+    url: http://www.gutenberg.org/2009/agents/32829
+  illustrator:
+    agent_name: Rosa, H.
+    gutenberg_agent_id: '52298'
+    url: http://www.gutenberg.org/2009/agents/52298
+creator:
+  author:
+    agent_name: Lossing, Benson John
+    alias: Lossing, Benson J. (Benson John)
+    birthdate: 1813
+    deathdate: 1891
+    gutenberg_agent_id: '4627'
+    url: http://www.gutenberg.org/2009/agents/4627
+    wikipedia: https://en.wikipedia.org/wiki/Benson_John_Lossing
+description: ''
+gutenberg_issued: '2020-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hale, Nathan, 1755-1776'
+- !lcsh 'André, John, 1751-1780'
+- !lcc 'E201'
+- GITenberg
+title: 'The Two Spies: Nathan Hale and John André'
+url: http://www.gutenberg.org/ebooks/63119
