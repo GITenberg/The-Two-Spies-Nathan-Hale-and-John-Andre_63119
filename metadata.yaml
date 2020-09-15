@@ -1,5 +1,5 @@
 _repo: The-Two-Spies-Nathan-Hale-and-John-Andre_63119
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Seward, Anna
@@ -11,6 +11,9 @@ contributor:
     agent_name: Rosa, H.
     gutenberg_agent_id: '52298'
     url: http://www.gutenberg.org/2009/agents/52298
+covers:
+- cover_type: archival
+  image_path: 63119-h/images/cover.jpg
 creator:
   author:
     agent_name: Lossing, Benson John
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4627
     wikipedia: https://en.wikipedia.org/wiki/Benson_John_Lossing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63119#The-Two-Spies-Nathan-Hale-and-John-Andre
 gutenberg_issued: '2020-09-04'
 gutenberg_type: Text
 identifiers:
